@@ -2,10 +2,11 @@
 
 ## Диаграмма прецедентов
 
-_должна быть картинка на диаграмму_
+![alt text](https://github.com/ctel-prj-mng/7-uml-270318-KsushaSeliv/blob/master/Precedent.png)
+
 
 ## Диаграмма последовательности
 
-_должна быть картинка на диаграмму_
+![alt text](https://github.com/ctel-prj-mng/7-uml-270318-KsushaSeliv/blob/master/Posledovatelnost.png)
 
 ## Ответы на вопросы
